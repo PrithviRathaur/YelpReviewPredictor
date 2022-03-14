@@ -147,6 +147,9 @@ c) The Random Forest Classifier performed slightly better than the Decision Fore
 
 We unfortunately did not get the strict results that we were expecting, in which we could tell a resturant owner to fix x, y, and z to improve their ratings. If anything, this goes to show that consumers in Las Vegas expect a well-rounded experience. Restaurant owners should take care to offer the same amentities as their competitors to give themselves the best chance at high rating.
 
+# Authors
+
+Prithvi Rathaur, Nandin Padheriya, Ishita Date
 
 # References
 
